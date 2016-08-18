@@ -1,5 +1,5 @@
 package: .
-homepage: https://github.com/HewlettPackard/docker-machine-oneview
+homepage: https://github.com/Sheetal-R/docker-machine-oneview
 import:
 # We're installing a fresh copy in make every time we build
 # - package: github.com/Sheetal-R/oneview-golang

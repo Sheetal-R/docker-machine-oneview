@@ -5,7 +5,7 @@ if [ -z "$VALIDATE_UPSTREAM" ]; then
 	# are running more than one validate bundlescript
 
 	# VALIDATE_REPO='git@github.com:HewlettPackard/docker-machine-oneview.git'
-	VALIDATE_REPO='https://github.com/HewlettPackard/docker-machine-oneview.git'
+	VALIDATE_REPO='https://github.com/Sheetal-R/docker-machine-oneview.git'
 	VALIDATE_BRANCH='master'
 
 	if [ "$TRAVIS" = 'true' -a "$TRAVIS_PULL_REQUEST" != 'false' ]; then

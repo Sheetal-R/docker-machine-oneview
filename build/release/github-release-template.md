@@ -7,14 +7,14 @@
 e.g., for Mac OSX:
 
 ```console
-$ curl -L https://github.com/HewlettPackard/docker-machine-oneview/releases/download/{{VERSION}}/docker-machine-driver-oneview_darwin-amd64 >/usr/local/bin/docker-machine-driver-oneview && \
+$ curl -L https://github.com/Sheetal-R/docker-machine-oneview/releases/download/{{VERSION}}/docker-machine-driver-oneview_darwin-amd64 >/usr/local/bin/docker-machine-driver-oneview && \
   chmod +x /usr/local/bin/docker-machine-driver-oneview
 ```
 
 Linux:
 
 ```console
-$ curl -L https://github.com/HewlettPackard/docker-machine-oneview/releases/download/{{VERSION}}/docker-machine-driver-oneview_linux-amd64 >/usr/local/bin/docker-machine-driver-oneview && \
+$ curl -L https://github.com/Sheetal-R/docker-machine-oneview/releases/download/{{VERSION}}/docker-machine-driver-oneview_linux-amd64 >/usr/local/bin/docker-machine-driver-oneview && \
   chmod +x /usr/local/bin/docker-machine-driver-oneview
 ```
 

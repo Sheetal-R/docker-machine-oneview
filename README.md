@@ -29,7 +29,7 @@ USE_CONTAINER=1 make build
 
 ## Contributing
 
-Want to hack on docker-machine-oneview? Please start with the [Contributing Guide](https://github.com/HewlettPackard/docker-machine-oneview/blob/master/CONTRIBUTING.md).
+Want to hack on docker-machine-oneview? Please start with the [Contributing Guide](https://github.com/Sheetal-R/docker-machine-oneview/blob/master/CONTRIBUTING.md).
 
 ## License
 This project is licensed under the Apache License, Version 2.0.  See LICENSE for full license text.
