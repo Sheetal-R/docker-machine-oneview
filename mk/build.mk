@@ -18,7 +18,7 @@ define go-get
 endef
 
 go-install-oneview:
-		$(call go-get,github.com/HewlettPackard/oneview-golang)
+		$(call go-get,github.com/Sheetal-R/oneview-golang)
 
 # XXX building with -a fails in debug (with -N -l) ????
 

@@ -2,7 +2,7 @@ package: .
 homepage: https://github.com/HewlettPackard/docker-machine-oneview
 import:
 # We're installing a fresh copy in make every time we build
-# - package: github.com/HewlettPackard/oneview-golang
+# - package: github.com/Sheetal-R/oneview-golang
 #   version: master
 #   subpackages:
 #   - rest

@@ -5,10 +5,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/HewlettPackard/oneview-golang/icsp"
-	"github.com/HewlettPackard/oneview-golang/ov"
-	"github.com/HewlettPackard/oneview-golang/rest"
-	"github.com/HewlettPackard/oneview-golang/testconfig"
+	"github.com/Sheetal-R/oneview-golang/icsp"
+	"github.com/Sheetal-R/oneview-golang/ov"
+	"github.com/Sheetal-R/oneview-golang/rest"
+	"github.com/Sheetal-R/oneview-golang/testconfig"
 	"github.com/docker/machine/libmachine/drivers"
 	"github.com/stretchr/testify/assert"
 )

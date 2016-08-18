@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/HewlettPackard/oneview-golang/icsp"
-	"github.com/HewlettPackard/oneview-golang/ov"
+	"github.com/Sheetal-R/oneview-golang/icsp"
+	"github.com/Sheetal-R/oneview-golang/ov"
 	"github.com/docker/machine/libmachine/drivers"
 	"github.com/docker/machine/libmachine/log"
 	"github.com/docker/machine/libmachine/mcnflag"
