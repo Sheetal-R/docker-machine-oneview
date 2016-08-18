@@ -1,7 +1,7 @@
 # Project name, used to name the binaries
 PKG_NAME := docker-machine
 # Github infos
-GH_USER ?= HewlettPackard
+GH_USER ?= Sheetal-R
 GH_REPO ?= docker-machine-oneview
 
 # If true, disable optimizations and does NOT strip the binary
