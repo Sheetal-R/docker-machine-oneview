@@ -6,6 +6,6 @@ RUN go get  github.com/golang/lint/golint \
             github.com/aktau/github-release
 
 ENV USER root
-WORKDIR /go/src/github.com/HewlettPackard/docker-machine-oneview
+WORKDIR /go/src/github.com/Sheetal-R/docker-machine-oneview
 
-COPY . /go/src/github.com/HewlettPackard/docker-machine-oneview
+COPY . /go/src/github.com/Sheetal-R/docker-machine-oneview

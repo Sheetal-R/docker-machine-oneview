@@ -17,7 +17,7 @@ limitations under the License.
 package main
 
 import (
-	"github.com/HewlettPackard/docker-machine-oneview/oneview"
+	"github.com/Sheetal-R/docker-machine-oneview/oneview"
 	"github.com/docker/machine/libmachine/drivers/plugin"
 )
 
