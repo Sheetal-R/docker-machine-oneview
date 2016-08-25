@@ -347,6 +347,7 @@ func (d *Driver) Create() error {
 	}
 	// create d.Server and apply a build plan and configure the custom attributes
 	if err := d.ClientICSP.CustomizeServer(cs); err != nil {
+                log.Infof("Inside oneview.go , %s.",err)
 		return err
 	}
 
